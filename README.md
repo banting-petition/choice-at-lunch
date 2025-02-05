@@ -1,5 +1,5 @@
 # Choice at Lunch!
-This is a petition to get rid of Outside Lunches at Banting Middle School
+This is a petition to get rid of Outside Lunches at Banting.
 
 ## Questions
 ### Are there any viruses?
