@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="favicon.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="210"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#fe0000;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="103.34939"
+       cy="107.10755"
+       r="80.26355" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:20.7398;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="19.969845"
+       height="158.95364"
+       x="138.54919"
+       y="-83.110886"
+       transform="matrix(0.67624111,0.73668038,-0.77092733,0.63692312,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:105.833px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="41.226067"
+       y="148.15669"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.833px;font-family:'Marker Felt';-inkscape-font-specification:'Marker Felt Bold';stroke-width:0.264583"
+         x="41.226067"
+         y="148.15669">OL</tspan></text>
+  </g>
+</svg>
